@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+     background-color: #FFDE40; 
+     
+}
+
+header {
+    background-color:#FFD300;
+    font-size: 25px;
+}
+
+main {
+     background-color:#FFD300; 
+}
+
+footer {
+    background-color: #7109AA; 
+}
+
+h1 {
+    text-align: center;
+    color:darkblue ;
+    position:relative ;
+    top: 10px ;
+}
+
+img {
+    text-align: center;
+
+}
+
+nav a {
+    color: black ;
+    border: 5px solid lightblue ;
+    text-decoration: none;
+    background-color: white;
+}
+
+header a {
+    border: 5px solid lightblue ;
+    text-decoration: none;
+    background-color: white;
+}
+
+nav a {
+    padding: 5px;
+    position:relative ;
+    top: 20px ;
+
+}
+
+ul {
+    font-size: 26px;
+    color: darkblue;
+}
